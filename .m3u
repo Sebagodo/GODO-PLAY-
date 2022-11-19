@@ -3132,7 +3132,7 @@ http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/159068
 http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/159069
 #EXTINF:-1 tvg-id="" tvg-name="CL: UCV TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Logotipo_de_UCV_Televisi%C3%B3n_%282018%29.png" group-title="CHILE 2 🇨🇱",🇨🇱2 UCV TV
 http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/160315
-#EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6" tvg-logo="http://127.0.0.1/" group-title="COSTA RICA 2 🇨??",🇨🇷2 REPRETEL 6
+#EXTINF:-1 tvg-id="" tvg-name="REPRETEL 6" tvg-logo="http://127.0.0.1/" group-title="COSTA RICA 2 🇨🇷",🇨🇷2 REPRETEL 6
 http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/161643
 #EXTINF:-1 tvg-id="" tvg-name="REPRETEL 2" tvg-logo="http://127.0.0.1/" group-title="COSTA RICA 2 🇨🇷",🇨🇷2 REPRETEL 2
 http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/161644
@@ -3816,7 +3816,7 @@ http://fastvplayer.com:8080/play/W92UuWJKwF0iuPg2cnFCl2c0ff-Cdu08UnQOFAVa0RyunHk
 http://fastvplayer.com:8080/play/W92UuWJKwF0iuPg2cnFCl5Uknrd4M88alNu3zV9mGl7lqBymyMr4bS833cd7chRc/ts
 #EXTINF:-1 xui-id="74" tvg-id="" tvg-name="CINE HD | STARZ" tvg-logo="https://static.epg.best/us/Starz.us.png"   group-title="CINE HD 📽️",📽️HD  STARZ
 http://fastvplayer.com:8080/play/W92UuWJKwF0iuPg2cnFCl1ll5J4yp1zQdvXgno-uKVyNVmccmEx0TaZJzE-y0rfv/ts
-#EXTINF:-1 xui-id="75" tvg-id="" tvg-name="CINE HD | STARZ ENCORE" tvg-logo="https://static.epg.best/us/StarzEncore.us.png"   group-title="CINE HD 📽️",📽️HD  STARZ ENCORE
+#EXTINF:-1 xui-id="75" tvg-id="" tvg-name="CINE HD | STARZ ENCORE" tvg-logo="https://static.epg.best/us/StarzEncore.us.png" group-title="CINE HD 📽️",📽️HD  STARZ ENCORE
 http://fastvplayer.com:8080/play/W92UuWJKwF0iuPg2cnFCl4VyV3q3KZIlVHKVjYaV0gamOKnbl1eiJhnPJd3zWZ_8/ts
 #EXTINF:-1 xui-id="76" tvg-id="" tvg-name="CINE HD | STARZ EDGE" tvg-logo="https://static.epg.best/us/StarzEdge.us.png"   group-title="CINE HD 📽️",📽️HD  STARZ EDGE
 http://fastvplayer.com:8080/play/W92UuWJKwF0iuPg2cnFClw5cs5TYlHLfLoLVJhApqy7lds3hWqriPX56v7LCt49X/ts
@@ -3824,7 +3824,6 @@ http://fastvplayer.com:8080/play/W92UuWJKwF0iuPg2cnFClw5cs5TYlHLfLoLVJhApqy7lds3
 http://fastvplayer.com:8080/play/W92UuWJKwF0iuPg2cnFCly-fWiwdC_HX9ztNLIYZ4HT064QdZXzEu3j9VWsWHu4E/ts
 #EXTINF:-1 xui-id="78" tvg-id="" tvg-name="CINE HD | STARZ ENCORE SUSPENSE" tvg-logo="https://static.epg.best/us/StarzEncoreSuspense.us.png"   group-title="CINE HD 📽️",📽️HD  STARZ ENCORE SUSPENSE
 http://fastvplayer.com:8080/play/W92UuWJKwF0iuPg2cnFCl8M7e9WJ06iqaPzsR8FvuwoYWyfkZZqBVxJ3fOwovvne/ts
-
 #EXTINF:-1 xui-id="285" tvg-id="" tvg-name="PPV MOVIES SD (Dual Audio) | ESTRENOS" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="PPV MOVIES  🎞️",🎞️PPV CINEMA   ESTRENOS
 http://fastvplayer.com:8080/play/W92UuWJKwF0iuPg2cnFCl7Qk-n3ihis-IkvFakgOcWbmWdiv2xE_l_gne_bn975v/ts
 #EXTINF:-1 xui-id="286" tvg-id="" tvg-name="PPV MOVIES SD (Dual Audio) | TERROR" tvg-logo="https://img.freepik.com/vector-gratis/ilustracion-abierta-muestra-estilo-neon-24-7_189374-91.jpg?size=338&ext=jpg" group-title="PPV MOVIES  🎞️",🎞️PPV CINEMA   TERROR
@@ -5529,7 +5528,7 @@ http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/150387
 http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/150388
 #EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE ACTION" tvg-logo="http://streamgo.vip:8008/images/116e61022a8c5933a759124db21c968c.png" group-title="Usa Movies 🇺🇸",🇺🇸US: STARZENCORE ACTION
 http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/150389
-#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE CLASSIC" tvg-logo="http://streamgo.vip:8008/images/6bb0d5d14331d5574244575ef118caa6.png" group-title="Usa Movies 🇺??",🇺🇸US: STARZ ENCORE CLASSIC
+#EXTINF:-1 tvg-id="" tvg-name="US: STARZ ENCORE CLASSIC" tvg-logo="http://streamgo.vip:8008/images/6bb0d5d14331d5574244575ef118caa6.png" group-title="Usa Movies 🇺🇸",🇺🇸US: STARZ ENCORE CLASSIC
 http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/150390
 #EXTINF:-1 tvg-id="" tvg-name="US: STARZENCORE SUSPENSE" tvg-logo="http://streamgo.vip:8008/images/324c8d5f876d45cae6c3db4409cf1652.png" group-title="Usa Movies 🇺🇸",🇺🇸US: STARZENCORE SUSPENSE
 http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/150391
@@ -5555,305 +5554,581 @@ http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/150400
 http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/150401
 #EXTINF:-1 tvg-id="" tvg-name="US: EPIX" tvg-logo="http://streamgo.vip:8008/images/e1ae849b31bb146485b11ed0c53f1c73.png" group-title="Usa Movies 🇺🇸",🇺🇸US: EPIX
 http://streamgo.vip:8008/etelio79/enVGNgzc3WTD/150402
-#EXTINF:-1 tvg-logo="http://corporate.pluto.tv/wp-content/uploads/2016/05/PLuto_logo_675x675-1.png" group-title="MLB ⚾",⚾MLB: MLB (D)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/404952
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8zbcwSh/mlb-network.png" group-title="MLB ⚾",⚾MLB:  MLB NETWORK
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/299145
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1920px-NFL_Network_logo.svg.png" group-title="NFL 🏈",🏈NFL Network SD
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/292459
-#EXTINF:-1 tvg-logo="http://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/08/NFL-RedZone.png" group-title="NFL 🏈",🏈NFL RedZone SD
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/237126
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2hnTxt8/espn-mnf.png" group-title="NFL 🏈",🏈NFL:  ESPN - MNF
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/449381
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gwJdscS/nfl-thursday-night-football.png" group-title="NFL 🏈",🏈NFL:  PRIME - TNF
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/449385
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/black-nfl-logo-png-8.png" group-title="NFL 🏈",🏈US NFL-Bears SD
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433576
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/black-nfl-logo-png-8.png" group-title="NFL 🏈",🏈US NFL-Bengals SD
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433579
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/black-nfl-logo-png-8.png" group-title="NFL 🏈",🏈US NFL-Bills SD
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433582
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/black-nfl-logo-png-8.png" group-title="NFL 🏈",🏈US NFL-Broncos SD
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433585
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0yC1S7p/ducks.png" group-title="NHL 🥅",🥅NHL Anaheim Ducks
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433839
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CBg0Qzn/arizona-coyotes.png" group-title="NHL 🥅",🥅NHL Arizona Coyotes
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433838
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xMPKgYS/bruins.png" group-title="NHL 🥅",🥅NHL Boston Bruins
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433837
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8cPwCKh/hurricanes.png" group-title="NHL 🥅",🥅NHL Carolina Hurricanes
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433834
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wYF312x/avalanche.png" group-title="NHL 🥅",🥅NHL Colorado Avalanche
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433832
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JvvqxTW/blue-jackets.png" group-title="NHL 🥅",🥅NHL Columbus Blue Jackets
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433831
-#EXTINF:-1 tvg-logo="http://www.arenagraphics.com/images/tennis-channel-cricle-logo.png" group-title="TENNIS 🎾",🎾US: TENNIS CHANNEL
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/94128
-#EXTINF:-1 tvg-logo="https://www.multichoice.com/media/1309/mc_logo-supersport_prep.png" group-title="TENNIS 🎾",🎾AF UG SuperSport Tennis
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/369746
-#EXTINF:-1 tvg-logo="https://www.multichoice.com/media/1309/mc_logo-supersport_prep.png" group-title="TENNIS 🎾",🎾AF ZA SuperSport Tennis
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/369863
-#EXTINF:-1 tvg-logo="https://www.multichoice.com/media/1309/mc_logo-supersport_prep.png" group-title="TENNIS 🎾",🎾AF ZW SuperSport Tennis
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/369978
-#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2016/03/Tennis-Ball-PNG.png" group-title="TENNIS 🎾",🎾NL ZIGGO SPORT TENNIS HD
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/378767
-#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/2016/03/Tennis-Ball-PNG.png" group-title="TENNIS 🎾",🎾IT Supertennis HD
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/378768
-#EXTINF:-1 tvg-logo="https://putterfingers.co.uk/blog/wp-content/uploads/2017/11/sky-sports-logo.png" group-title="GOLF 🏌️",🏌️UK  Sky Sports Golf SD
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/375847
-#EXTINF:-1 tvg-logo="https://bleedingfool.com/wp-content/uploads/2019/09/Peacock-logo-600x257.png" group-title="GOLF 🏌️",🏌️US NBC Golf Pass
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/377949
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.1115535980_GolfChannel.png.d24760fe44b0d94bb234b639fccb7ba9.png" group-title="GOLF 🏌️",🏌️LAT Golf
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/214194
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.1115535980_GolfChannel.png.d24760fe44b0d94bb234b639fccb7ba9.png" group-title="GOLF 🏌️",🏌️US: GOLF CHANNEL
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/367090
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.1115535980_GolfChannel.png.d24760fe44b0d94bb234b639fccb7ba9.png" group-title="GOLF 🏌️",🏌️UY (DTV) Golf Channel (D)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/372646
-#EXTINF:-1 tvg-logo="https://www.multichoice.com/media/1309/mc_logo-supersport_prep.png" group-title="GOLF 🏌️",🏌️AF UG SuperSport Golf
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/369740
- #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Atlanta_Dream_logo.svg/220px-Atlanta_Dream_logo.svg.png" group-title="WNBA 🏀",🏀US : WNBA ATLANTA DREAM
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/205553
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Chicago_Sky_logo.svg/220px-Chicago_Sky_logo.svg.png" group-title="WNBA 🏀",🏀US : WNBA CHICAGO SKY
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/205554
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Connecticut_Sun_logo.svg/220px-Connecticut_Sun_logo.svg.png" group-title="WNBA 🏀",🏀US : WNBA CONNECTICUT SUN
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/205555
-#EXTINF:-1 tvg-logo="https://i.cdn.turner.com/nba/nba/.element/media/2.0/teamsites/clippers/nba-tv-logo.png" group-title="NBA 🏀",🏀NBA TV SD
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/367120
-#EXTINF:-1 tvg-logo="https://clipartcraft.com/images/basketball-transparent-spalding-5.png" group-title="NBA 🏀",🏀US NBA Atlanta Hawks (ATL) (Y)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/437389
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7V6nqg1/atlanta-hawks.png" group-title="NBA 🏀",🏀US NBA Atlanta Hawks (HD) (S)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433730
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYGgZ74/boston-celtics.png" group-title="NBA 🏀",🏀US NBA Boston Celtics (HD) (S)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433732
-#EXTINF:-1 tvg-logo="https://clipartcraft.com/images/basketball-transparent-spalding-5.png" group-title="NBA 🏀",🏀US NBA Brooklyn Nets (BKN) (Y)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/437409
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5T1cTSf/brooklyn-nets.png" group-title="NBA 🏀",🏀US NBA Brooklyn Nets (HD) (S)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433734
-#EXTINF:-1 tvg-logo="https://clipartcraft.com/images/basketball-transparent-spalding-5.png" group-title="NBA 🏀",🏀US NBA Charlotte Hornets (CHA) (Y)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/437412
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R6Q6zP1/charlotte-hornets.png" group-title="NBA 🏀",🏀US NBA Charlotte Hornets (HD) (S)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433736
-#EXTINF:-1 tvg-logo="https://clipartcraft.com/images/basketball-transparent-spalding-5.png" group-title="NBA 🏀",🏀US NBA Chicago Bulls (CHI) (Y)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/437402
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HxT2sHk/chicago-bulls.png" group-title="NBA 🏀",🏀US NBA Chicago Bulls (HD) (S)
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/433738
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Adult Time
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440914
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Alba XXX
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440915
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Anal Teen Angels
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440917
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Analized
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440918
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Ass Parade
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440919
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞AST TV
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440921
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Balkan Erotic
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440924
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Banana Fever
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440925
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Bang Bros
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440927
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Bang Bus
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440928
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Bang POV
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440929
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Barely Legal TV
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440931
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞BBC Pie
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440932
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Blacked
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440934
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Bratty Sis
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440935
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Brazzers
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440936
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞venus
-http://api-lockytv.ddns.net:25461/albvborbor/df6DpE3NrfpA/143
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Dad Crush
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440941
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Dane Jones
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440942
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Daughter Swap
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440943
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Deep Throat Sirens
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440948
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Dirty Wives Club
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440949
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Dorcel Club
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440950
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞DP Fanatics
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440951
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞play boy
-http://api-lockytv.ddns.net:25461/albvborbor/df6DpE3NrfpA/144
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Fake Taxi
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440953
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Family Hookups
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440954
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Family Strokes
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440955
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Glory Hole
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440957
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Holed
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440960
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Hot and Mean
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440962
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Hot Guys Fuck
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440964
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞House of Fyre
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440965
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞JapanV
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440967
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Jasmin TV
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440968
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Vixen
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/441002
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞We Live Together
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/441004
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞White Boxxx
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/441005
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Wicked
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/441006
-#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXX🔞",🔞Wild on Cam
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/441007
-#EXTINF:-1 tvg-id="" tvg-name="El arrecife: Atrapadas (2022)" tvg-logo="http://streamgo.vip:8008/images/1edc384c88a0ea66686fb5e21aed35ee.jpg" group-title="estrenos 2022 🆕",🆕 El arrecife: Atrapadas (2022)
+#EXTINF:-1 tvg-id="" tvg-name="El arrecife: Atrapadas (2022)" tvg-logo="http://streamgo.vip:8008/images/1edc384c88a0ea66686fb5e21aed35ee.jpg" group-title="peliculas estrenos 🆕",🆕 El arrecife: Atrapadas (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tony Hawk Hasta que las ruedas aguanten (2022)" tvg-logo="http://streamgo.vip:8008/images/5da9a9088244a685ec506c98af4c52ce.jpg" group-title="estrenos 2022 🆕",🆕Tony Hawk Hasta que las ruedas aguanten (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Tony Hawk Hasta que las ruedas aguanten (2022)" tvg-logo="http://streamgo.vip:8008/images/5da9a9088244a685ec506c98af4c52ce.jpg" group-title="peliculas estrenos 🆕",🆕Tony Hawk Hasta que las ruedas aguanten (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162884.mp4 
-#EXTINF:-1 tvg-id="" tvg-name="Shin Ultraman (2022)" tvg-logo="http://streamgo.vip:8008/images/e827da074ed14d3fca1925d2ec2c3140.jpg" group-title="estrenos 2022 🆕",🆕Shin Ultraman (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Shin Ultraman (2022)" tvg-logo="http://streamgo.vip:8008/images/e827da074ed14d3fca1925d2ec2c3140.jpg" group-title="peliculas estrenos 🆕",🆕Shin Ultraman (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Old Man (2022)" tvg-logo="http://streamgo.vip:8008/images/ef2f4e805b906376b71d2e418a16b1e3.jpg" group-title="estrenos 2022 🆕",🆕Old Man (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Old Man (2022)" tvg-logo="http://streamgo.vip:8008/images/ef2f4e805b906376b71d2e418a16b1e3.jpg" group-title="peliculas estrenos 🆕",🆕Old Man (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Piggy: Cerdita (2022)" tvg-logo="http://streamgo.vip:8008/images/9dfe9d1099801357854193925411ddbc.jpg" group-title="estrenos 2022 🆕",🆕Piggy: Cerdita (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Piggy: Cerdita (2022)" tvg-logo="http://streamgo.vip:8008/images/9dfe9d1099801357854193925411ddbc.jpg" group-title="peliculas estrenos 🆕",🆕Piggy: Cerdita (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El extraño (2022)" tvg-logo="http://streamgo.vip:8008/images/a9dbff74cfc4637b7ce385cd3c864a63.jpg" group-title="estrenos 2022 🆕",🆕El extraño (2022)
+#EXTINF:-1 tvg-id="" tvg-name="El extraño (2022)" tvg-logo="http://streamgo.vip:8008/images/a9dbff74cfc4637b7ce385cd3c864a63.jpg" group-title="peliculas estrenos 🆕",🆕El extraño (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Battle: Estilo libre (2022)" tvg-logo="http://streamgo.vip:8008/images/36c143aef6bba4c85526e1451a5c91cc.jpg" group-title="estrenos 2022 🆕",🆕Battle: Estilo libre (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Battle: Estilo libre (2022)" tvg-logo="http://streamgo.vip:8008/images/36c143aef6bba4c85526e1451a5c91cc.jpg" group-title="peliculas estrenos 🆕",🆕Battle: Estilo libre (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ola de calor (2022)" tvg-logo="http://streamgo.vip:8008/images/4fef2bef57319ec84df17e255e588e88.jpg" group-title="estrenos 2022 🆕",🆕Ola de calor (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Ola de calor (2022)" tvg-logo="http://streamgo.vip:8008/images/4fef2bef57319ec84df17e255e588e88.jpg" group-title="peliculas estrenos 🆕",🆕Ola de calor (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nate: Mejor tarde que nunca (2022)" tvg-logo="http://streamgo.vip:8008/images/682e0ee650c5bbd41a6595ed75a22c5a.jpg" group-title="estrenos 2022 🆕",🆕Nate: Mejor tarde que nunca (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Nate: Mejor tarde que nunca (2022)" tvg-logo="http://streamgo.vip:8008/images/682e0ee650c5bbd41a6595ed75a22c5a.jpg" group-title="peliculas estrenos 🆕",🆕Nate: Mejor tarde que nunca (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corre y Dispara (2022)" tvg-logo="http://streamgo.vip:8008/images/839485f46bde51ae3eefc31beb82f22e.jpg" group-title="estrenos 2022 🆕",🆕Corre y Dispara (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Corre y Dispara (2022)" tvg-logo="http://streamgo.vip:8008/images/839485f46bde51ae3eefc31beb82f22e.jpg" group-title="peliculas estrenos 🆕",🆕Corre y Dispara (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Virus :32 (2022)" tvg-logo="http://streamgo.vip:8008/images/f72bd4f53504d121936f53d350e5e2d5.jpg" group-title="estrenos 2022 🆕",🆕Virus :32 (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Virus :32 (2022)" tvg-logo="http://streamgo.vip:8008/images/f72bd4f53504d121936f53d350e5e2d5.jpg" group-title="peliculas estrenos 🆕",🆕Virus :32 (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Toy Aficiao (2022)" tvg-logo="http://streamgo.vip:8008/images/88183158758105987d6423cc87ca56c8.jpg" group-title="estrenos 2022 🆕",🆕Toy Aficiao (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Toy Aficiao (2022)" tvg-logo="http://streamgo.vip:8008/images/88183158758105987d6423cc87ca56c8.jpg" group-title="peliculas estrenos 🆕",🆕Toy Aficiao (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Escuela del Bien y del Mal (2022)" tvg-logo="http://streamgo.vip:8008/images/9eb48fa998f1be73a62e64e527f5fa2d.jpg" group-title="estrenos 2022 🆕",🆕La Escuela del Bien y del Mal (2022)
+#EXTINF:-1 tvg-id="" tvg-name="La Escuela del Bien y del Mal (2022)" tvg-logo="http://streamgo.vip:8008/images/9eb48fa998f1be73a62e64e527f5fa2d.jpg" group-title="peliculas estrenos 🆕",🆕La Escuela del Bien y del Mal (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163020.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El gerente (2022)" tvg-logo="http://streamgo.vip:8008/images/5243b7a75d4b01140768b8e710a66c5d.jpg" group-title="estrenos 2022 🆕",🆕El gerente (2022)
+#EXTINF:-1 tvg-id="" tvg-name="El gerente (2022)" tvg-logo="http://streamgo.vip:8008/images/5243b7a75d4b01140768b8e710a66c5d.jpg" group-title="peliculas estrenos 🆕",🆕El gerente (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163034.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Phantom of the Open (2022)" tvg-logo="http://streamgo.vip:8008/images/bc1a0e3e9db1bba6f68cea3397fb4964.jpg" group-title="estrenos 2022 🆕",🆕The Phantom of the Open (2022)
+#EXTINF:-1 tvg-id="" tvg-name="The Phantom of the Open (2022)" tvg-logo="http://streamgo.vip:8008/images/bc1a0e3e9db1bba6f68cea3397fb4964.jpg" group-title="peliculas estrenos 🆕",🆕The Phantom of the Open (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Voy a pasármelo bien (2022)" tvg-logo="http://streamgo.vip:8008/images/9f032bc5842823cc1e0648d8cb4333ae.jpg" group-title="estrenos 2022 🆕",🆕Voy a pasármelo bien (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Voy a pasármelo bien (2022)" tvg-logo="http://streamgo.vip:8008/images/9f032bc5842823cc1e0648d8cb4333ae.jpg" group-title="peliculas estrenos 🆕",🆕Voy a pasármelo bien (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hombre de Dios (2022)" tvg-logo="http://streamgo.vip:8008/images/09066ae40d1e647ccf78532fa6ee556f.jpg" group-title="estrenos 2022 🆕",🆕Hombre de Dios (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Hombre de Dios (2022)" tvg-logo="http://streamgo.vip:8008/images/09066ae40d1e647ccf78532fa6ee556f.jpg" group-title="peliculas estrenos 🆕",🆕Hombre de Dios (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Panama (2022)" tvg-logo="http://streamgo.vip:8008/images/4407e4e35c61ea3fd4c27e241a47ae30.jpg" group-title="estrenos 2022 🆕",🆕Panama (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Panama (2022)" tvg-logo="http://streamgo.vip:8008/images/4407e4e35c61ea3fd4c27e241a47ae30.jpg" group-title="peliculas estrenos 🆕",🆕Panama (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="4 mitades (2022)" tvg-logo="http://streamgo.vip:8008/images/63a35492ad9e8d779d8006a6e3c31001.jpg" group-title="estrenos 2022 🆕",🆕4 mitades (2022)
+#EXTINF:-1 tvg-id="" tvg-name="4 mitades (2022)" tvg-logo="http://streamgo.vip:8008/images/63a35492ad9e8d779d8006a6e3c31001.jpg" group-title="peliculas estrenos 🆕",🆕4 mitades (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Yaksha: Operaciones despiadadas (2022)" tvg-logo="http://streamgo.vip:8008/images/7c194c9f80f0cdf4b66506d47e4a6a0c.jpg" group-title="estrenos 2022 🆕",🆕Yaksha: Operaciones despiadadas (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Yaksha: Operaciones despiadadas (2022)" tvg-logo="http://streamgo.vip:8008/images/7c194c9f80f0cdf4b66506d47e4a6a0c.jpg" group-title="peliculas estrenos 🆕",🆕Yaksha: Operaciones despiadadas (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Argentina, 1985 (2022)" tvg-logo="http://streamgo.vip:8008/images/0d70f33a43d0f1bdd28301ac7beaffbc.jpg" group-title="estrenos 2022 🆕",🆕Argentina, 1985 (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Argentina, 1985 (2022)" tvg-logo="http://streamgo.vip:8008/images/0d70f33a43d0f1bdd28301ac7beaffbc.jpg" group-title="peliculas estrenos 🆕",🆕Argentina, 1985 (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Una chica del siglo XX (2022)" tvg-logo="http://streamgo.vip:8008/images/aa54d54d960e285e9f0f1b1b5b2c0063.jpg" group-title="estrenos 2022 🆕",🆕Una chica del siglo XX (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Una chica del siglo XX (2022)" tvg-logo="http://streamgo.vip:8008/images/aa54d54d960e285e9f0f1b1b5b2c0063.jpg" group-title="peliculas estrenos 🆕",🆕Una chica del siglo XX (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164282.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Noche de sustos (2022)" tvg-logo="http://streamgo.vip:8008/images/3edae14ac21fc8af1361c1376628a742.jpg" group-title="estrenos 2022 🆕",🆕Noche de sustos (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Noche de sustos (2022)" tvg-logo="http://streamgo.vip:8008/images/3edae14ac21fc8af1361c1376628a742.jpg" group-title="peliculas estrenos 🆕",🆕Noche de sustos (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164289.mp4
-#EXTINF:-1 tvg-id="" tvg-name="V/H/S/99 (2022)" tvg-logo="http://streamgo.vip:8008/images/efd07c1ba4d846fea426fafe6b853283.jpg" group-title="estrenos 2022 🆕",🆕V/H/S/99 (2022)
+#EXTINF:-1 tvg-id="" tvg-name="V/H/S/99 (2022)" tvg-logo="http://streamgo.vip:8008/images/efd07c1ba4d846fea426fafe6b853283.jpg" group-title="peliculas estrenos 🆕",🆕V/H/S/99 (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Terrifier 2 (2022)" tvg-logo="http://streamgo.vip:8008/images/6cacb4dad9723737c0f2f3d3d662fd75.jpg" group-title="estrenos 2022 🆕",🆕Terrifier 2 (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Terrifier 2 (2022)" tvg-logo="http://streamgo.vip:8008/images/6cacb4dad9723737c0f2f3d3d662fd75.jpg" group-title="peliculas estrenos 🆕",🆕Terrifier 2 (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Matriarca (2022)" tvg-logo="http://streamgo.vip:8008/images/7cf9420581f90fab75248a97d2671723.jpg" group-title="estrenos 2022 🆕",🆕Matriarca (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Matriarca (2022)" tvg-logo="http://streamgo.vip:8008/images/7cf9420581f90fab75248a97d2671723.jpg" group-title="peliculas estrenos 🆕",🆕Matriarca (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164456.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No estarás sola (2022)" tvg-logo="http://streamgo.vip:8008/images/e664d2e3386fdf7ebd858ff9a4bbe7a1.jpg" group-title="estrenos 2022 🆕",🆕No estarás sola (2022)
+#EXTINF:-1 tvg-id="" tvg-name="No estarás sola (2022)" tvg-logo="http://streamgo.vip:8008/images/e664d2e3386fdf7ebd858ff9a4bbe7a1.jpg" group-title="peliculas estrenos 🆕",🆕No estarás sola (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022) " tvg-logo="http://streamgo.vip:8008/images/4fb47844d8dab4c7bb627d29120ea250.jpg" group-title="estrenos 2022 🆕",🆕Black Adam (2022) 
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022) " tvg-logo="http://streamgo.vip:8008/images/4fb47844d8dab4c7bb627d29120ea250.jpg" group-title="peliculas estrenos 🆕",🆕Black Adam (2022) 
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164458.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Deinfluencer (2022)" tvg-logo="http://streamgo.vip:8008/images/b646bb6825017ca082be8ea37fca954b.jpg" group-title="estrenos 2022 🆕",🆕Deinfluencer (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Deinfluencer (2022)" tvg-logo="http://streamgo.vip:8008/images/b646bb6825017ca082be8ea37fca954b.jpg" group-title="peliculas estrenos 🆕",🆕Deinfluencer (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Whisper (2022)" tvg-logo="http://streamgo.vip:8008/images/b79521e989848712a86566d20619cc64.jpg" group-title="estrenos 2022 🆕",🆕Whisper (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Whisper (2022)" tvg-logo="http://streamgo.vip:8008/images/b79521e989848712a86566d20619cc64.jpg" group-title="peliculas estrenos 🆕",🆕Whisper (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sonríe (2022)" tvg-logo="http://streamgo.vip:8008/images/22d35619d55e9f2d498aafd1005d2d98.jpg" group-title="estrenos 2022 🆕",🆕Sonríe (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Sonríe (2022)" tvg-logo="http://streamgo.vip:8008/images/22d35619d55e9f2d498aafd1005d2d98.jpg" group-title="peliculas estrenos 🆕",🆕Sonríe (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="No te preocupes cariño (2022)" tvg-logo="http://streamgo.vip:8008/images/fd4841cad6890997e05ebfa0c195805b.jpg" group-title="estrenos 2022 🆕",🆕No te preocupes cariño (2022)
+#EXTINF:-1 tvg-id="" tvg-name="No te preocupes cariño (2022)" tvg-logo="http://streamgo.vip:8008/images/fd4841cad6890997e05ebfa0c195805b.jpg" group-title="peliculas estrenos 🆕",🆕No te preocupes cariño (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Un amor en Escocia (2022)" tvg-logo="http://streamgo.vip:8008/images/bfadc59682f60719f430d4ec13284fa3.jpg" group-title="estrenos 2022 🆕",🆕Un amor en Escocia (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Un amor en Escocia (2022)" tvg-logo="http://streamgo.vip:8008/images/bfadc59682f60719f430d4ec13284fa3.jpg" group-title="peliculas estrenos 🆕",🆕Un amor en Escocia (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bárbaro (2022)" tvg-logo="http://streamgo.vip:8008/images/ce6863154bdee8b85c2aa78c4e31ada5.jpg" group-title="estrenos 2022 🆕",🆕Bárbaro (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaro (2022)" tvg-logo="http://streamgo.vip:8008/images/ce6863154bdee8b85c2aa78c4e31ada5.jpg" group-title="peliculas estrenos 🆕",🆕Bárbaro (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Blade of the 47 Ronin (2022)" tvg-logo="http://streamgo.vip:8008/images/dd3b1dc5ff0edf0b2b262db47e770eda.jpg" group-title="estrenos 2022 🆕",🆕Blade of the 47 Ronin (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Blade of the 47 Ronin (2022)" tvg-logo="http://streamgo.vip:8008/images/dd3b1dc5ff0edf0b2b262db47e770eda.jpg" group-title="peliculas estrenos 🆕",🆕Blade of the 47 Ronin (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jaula (2022)" tvg-logo="http://streamgo.vip:8008/images/166404520be007ed349d47e1ecaf7cb5.jpg" group-title="estrenos 2022 🆕",🆕Jaula (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Jaula (2022)" tvg-logo="http://streamgo.vip:8008/images/166404520be007ed349d47e1ecaf7cb5.jpg" group-title="peliculas estrenos 🆕",🆕Jaula (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Déjate llevar (2022)" tvg-logo="http://streamgo.vip:8008/images/15dca2419743fef8a088c16b89aaf925.jpg" group-title="estrenos 2022 🆕",🆕Déjate llevar (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Déjate llevar (2022)" tvg-logo="http://streamgo.vip:8008/images/15dca2419743fef8a088c16b89aaf925.jpg" group-title="peliculas estrenos 🆕",🆕Déjate llevar (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Raymond & Ray (2022)" tvg-logo="http://streamgo.vip:8008/images/a83d0a8c48eccd5283b892c1f5bc2315.jpg" group-title="estrenos 2022 🆕",🆕Raymond & Ray (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Raymond & Ray (2022)" tvg-logo="http://streamgo.vip:8008/images/a83d0a8c48eccd5283b892c1f5bc2315.jpg" group-title="peliculas estrenos 🆕",🆕Raymond & Ray (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chip y Dale: Al rescate (2022)" tvg-logo="http://streamgo.vip:8008/images/9f06b10487c237649d6cd5ce549e7534.jpg" group-title="estrenos 2022 🆕",🆕Chip y Dale: Al rescate (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Chip y Dale: Al rescate (2022)" tvg-logo="http://streamgo.vip:8008/images/9f06b10487c237649d6cd5ce549e7534.jpg" group-title="peliculas estrenos 🆕",🆕Chip y Dale: Al rescate (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El ángel de la muerte (2022)" tvg-logo="http://streamgo.vip:8008/images/4180d872f3426c9bdd31d15ff23b86a5.jpg" group-title="estrenos 2022 🆕",🆕El ángel de la muerte (2022)
+#EXTINF:-1 tvg-id="" tvg-name="El ángel de la muerte (2022)" tvg-logo="http://streamgo.vip:8008/images/4180d872f3426c9bdd31d15ff23b86a5.jpg" group-title="peliculas estrenos 🆕",🆕El ángel de la muerte (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mia and Me: The Hero of Centopia (2022)" tvg-logo="http://streamgo.vip:8008/images/2ed81b6e621e1bef243d37fc88cb40c0.jpg" group-title="estrenos 2022 🆕",🆕Mia and Me: The Hero of Centopia (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Mia and Me: The Hero of Centopia (2022)" tvg-logo="http://streamgo.vip:8008/images/2ed81b6e621e1bef243d37fc88cb40c0.jpg" group-title="peliculas estrenos 🆕",🆕Mia and Me: The Hero of Centopia (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El abismo del infierno (2022)" tvg-logo="http://streamgo.vip:8008/images/72872c57abe43675658122142ef152f8.jpg" group-title="estrenos 2022 🆕",🆕El abismo del infierno (2022)
+#EXTINF:-1 tvg-id="" tvg-name="El abismo del infierno (2022)" tvg-logo="http://streamgo.vip:8008/images/72872c57abe43675658122142ef152f8.jpg" group-title="peliculas estrenos 🆕",🆕El abismo del infierno (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El robo a Mussolini (2022)" tvg-logo="http://streamgo.vip:8008/images/ac01209d17117bcb0ce4183920ddc2b3.jpg" group-title="estrenos 2022 🆕",🆕El robo a Mussolini (2022)
+#EXTINF:-1 tvg-id="" tvg-name="El robo a Mussolini (2022)" tvg-logo="http://streamgo.vip:8008/images/ac01209d17117bcb0ce4183920ddc2b3.jpg" group-title="peliculas estrenos 🆕",🆕El robo a Mussolini (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Depois do Universo (2022)" tvg-logo="http://streamgo.vip:8008/images/33ecdc4ffeb7d9572b1cdd8a945033c6.jpg" group-title="estrenos 2022 🆕",🆕Depois do Universo (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Depois do Universo (2022)" tvg-logo="http://streamgo.vip:8008/images/33ecdc4ffeb7d9572b1cdd8a945033c6.jpg" group-title="peliculas estrenos 🆕",🆕Depois do Universo (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165373.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pánico a la deriva (2022)" tvg-logo="http://streamgo.vip:8008/images/08019ceb7e69f8077af1e9726dc417b1.jpg" group-title="estrenos 2022 🆕",🆕Pánico a la deriva (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Pánico a la deriva (2022)" tvg-logo="http://streamgo.vip:8008/images/08019ceb7e69f8077af1e9726dc417b1.jpg" group-title="peliculas estrenos 🆕",🆕Pánico a la deriva (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165374.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La Casa del Crimen (2022)" tvg-logo="http://streamgo.vip:8008/images/2d132477366e6f7b120cb6d31fdd160d.jpg" group-title="estrenos 2022 🆕",🆕La Casa del Crimen (2022)
+#EXTINF:-1 tvg-id="" tvg-name="La Casa del Crimen (2022)" tvg-logo="http://streamgo.vip:8008/images/2d132477366e6f7b120cb6d31fdd160d.jpg" group-title="peliculas estrenos 🆕",🆕La Casa del Crimen (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165375.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dracula: The Original Living Vampire (2022)" tvg-logo="http://streamgo.vip:8008/images/2d4529d5922d5faa65cc3e5e0c77efba.jpg" group-title="estrenos 2022 🆕",🆕Dracula: The Original Living Vampire (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Dracula: The Original Living Vampire (2022)" tvg-logo="http://streamgo.vip:8008/images/2d4529d5922d5faa65cc3e5e0c77efba.jpg" group-title="peliculas estrenos 🆕",🆕Dracula: The Original Living Vampire (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165376.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mete miedo (2022)" tvg-logo="http://streamgo.vip:8008/images/1242b2108b031a58aaafc06c4596c268.jpg" group-title="estrenos 2022 🆕",🆕Mete miedo (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Mete miedo (2022)" tvg-logo="http://streamgo.vip:8008/images/1242b2108b031a58aaafc06c4596c268.jpg" group-title="peliculas estrenos 🆕",🆕Mete miedo (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wendell y Wild (2022)" tvg-logo="http://streamgo.vip:8008/images/9554f17a53245100096f752fe783603b.jpg" group-title="estrenos 2022 🆕",🆕Wendell y Wild (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Wendell y Wild (2022)" tvg-logo="http://streamgo.vip:8008/images/9554f17a53245100096f752fe783603b.jpg" group-title="peliculas estrenos 🆕",🆕Wendell y Wild (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bros: Más que amigos (2022)" tvg-logo="http://streamgo.vip:8008/images/ed857a0b20663606b83f62fc46b91cff.jpg" group-title="estrenos 2022 🆕",🆕Bros: Más que amigos (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Bros: Más que amigos (2022)" tvg-logo="http://streamgo.vip:8008/images/ed857a0b20663606b83f62fc46b91cff.jpg" group-title="peliculas estrenos 🆕",🆕Bros: Más que amigos (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="El norte sobre el vacío (2022)" tvg-logo="http://streamgo.vip:8008/images/3d01ec75f97a0332946c40c8dbdea209.jpg" group-title="estrenos 2022 🆕",🆕El norte sobre el vacío (2022)
+#EXTINF:-1 tvg-id="" tvg-name="El norte sobre el vacío (2022)" tvg-logo="http://streamgo.vip:8008/images/3d01ec75f97a0332946c40c8dbdea209.jpg" group-title="peliculas estrenos 🆕",🆕El norte sobre el vacío (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salvaje es el viento (2022)" tvg-logo="http://streamgo.vip:8008/images/762805f5a75a899debfdf233b6bfa908.jpg" group-title="estrenos 2022 🆕",🆕Salvaje es el viento (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Salvaje es el viento (2022)" tvg-logo="http://streamgo.vip:8008/images/762805f5a75a899debfdf233b6bfa908.jpg" group-title="peliculas estrenos 🆕",🆕Salvaje es el viento (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sin novedad en el frente (2022)" tvg-logo="http://streamgo.vip:8008/images/fc750af6ba781d173bc976524a9a7d83.jpg" group-title="estrenos 2022 🆕",🆕Sin novedad en el frente (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Sin novedad en el frente (2022)" tvg-logo="http://streamgo.vip:8008/images/fc750af6ba781d173bc976524a9a7d83.jpg" group-title="peliculas estrenos 🆕",🆕Sin novedad en el frente (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Un Río Muy Frío (2022)" tvg-logo="http://streamgo.vip:8008/images/402fb8a7ee4c768ec9560b9b9c5d6bc8.jpg" group-title="estrenos 2022 🆕",🆕Un Río Muy Frío (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Un Río Muy Frío (2022)" tvg-logo="http://streamgo.vip:8008/images/402fb8a7ee4c768ec9560b9b9c5d6bc8.jpg" group-title="peliculas estrenos 🆕",🆕Un Río Muy Frío (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="¡Menuda momia! 2 (2022)" tvg-logo="http://streamgo.vip:8008/images/4784465928946747b4046d1417c88e20.jpg" group-title="estrenos 2022 🆕",🆕¡Menuda momia! 2 (2022)
+#EXTINF:-1 tvg-id="" tvg-name="¡Menuda momia! 2 (2022)" tvg-logo="http://streamgo.vip:8008/images/4784465928946747b4046d1417c88e20.jpg" group-title="peliculas estrenos 🆕",🆕¡Menuda momia! 2 (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Single Black Female (2022)" tvg-logo="http://streamgo.vip:8008/images/c15c8c2b2256925d471cd1312c24af50.jpg" group-title="estrenos 2022 🆕",🆕Single Black Female (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Single Black Female (2022)" tvg-logo="http://streamgo.vip:8008/images/c15c8c2b2256925d471cd1312c24af50.jpg" group-title="peliculas estrenos 🆕",🆕Single Black Female (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crímenes del futuro (2022)" tvg-logo="http://streamgo.vip:8008/images/cc4f82220feaa3866bf171fe9fd4a1d2.jpg" group-title="estrenos 2022 🆕",🆕Crímenes del futuro (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Crímenes del futuro (2022)" tvg-logo="http://streamgo.vip:8008/images/cc4f82220feaa3866bf171fe9fd4a1d2.jpg" group-title="peliculas estrenos 🆕",🆕Crímenes del futuro (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Honecker und der Pastor (2022)" tvg-logo="http://streamgo.vip:8008/images/9f12267b94ab60b1c0c90470097c4667.jpg" group-title="estrenos 2022 🆕",🆕Honecker und der Pastor (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Honecker und der Pastor (2022)" tvg-logo="http://streamgo.vip:8008/images/9f12267b94ab60b1c0c90470097c4667.jpg" group-title="peliculas estrenos 🆕",🆕Honecker und der Pastor (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Offseason (2022)" tvg-logo="http://streamgo.vip:8008/images/3296a5e292238f638bb72bb0cb5c6fbb.jpg" group-title="estrenos 2022 🆕",🆕Offseason (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Offseason (2022)" tvg-logo="http://streamgo.vip:8008/images/3296a5e292238f638bb72bb0cb5c6fbb.jpg" group-title="peliculas estrenos 🆕",🆕Offseason (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mamá para rato (2022)" tvg-logo="http://streamgo.vip:8008/images/f4f8f5d812e3033b7636c384e0308675.jpg" group-title="estrenos 2022 🆕",🆕Mamá para rato (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Mamá para rato (2022)" tvg-logo="http://streamgo.vip:8008/images/f4f8f5d812e3033b7636c384e0308675.jpg" group-title="peliculas estrenos 🆕",🆕Mamá para rato (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mira como corren (2022)" tvg-logo="http://streamgo.vip:8008/images/4807c276542112ed1b534de81a2abff5.jpg" group-title="estrenos 2022 🆕",🆕Mira como corren (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Mira como corren (2022)" tvg-logo="http://streamgo.vip:8008/images/4807c276542112ed1b534de81a2abff5.jpg" group-title="peliculas estrenos 🆕",🆕Mira como corren (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="La toma del poder (2022)" tvg-logo="http://streamgo.vip:8008/images/24454fa54e7103658eac7885b7d67505.jpg" group-title="estrenos 2022 🆕",🆕La toma del poder (2022)
+#EXTINF:-1 tvg-id="" tvg-name="La toma del poder (2022)" tvg-logo="http://streamgo.vip:8008/images/24454fa54e7103658eac7885b7d67505.jpg" group-title="peliculas estrenos 🆕",🆕La toma del poder (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Men (2022)" tvg-logo="http://streamgo.vip:8008/images/66ca9a269e8e3bf7e953b117c58d3f54.jpg" group-title="estrenos 2022 🆕",🆕Men (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Men (2022)" tvg-logo="http://streamgo.vip:8008/images/66ca9a269e8e3bf7e953b117c58d3f54.jpg" group-title="peliculas estrenos 🆕",🆕Men (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166074.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gemelo siniestro (2022)" tvg-logo="http://streamgo.vip:8008/images/13e826447af2a951b4517e897199b9d1.jpg" group-title="estrenos 2022 🆕",🆕Gemelo siniestro (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Gemelo siniestro (2022)" tvg-logo="http://streamgo.vip:8008/images/13e826447af2a951b4517e897199b9d1.jpg" group-title="peliculas estrenos 🆕",🆕Gemelo siniestro (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166316.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Campamento galáctico (2022)" tvg-logo="http://streamgo.vip:8008/images/140cdfebc8d29609aac4968835340543.jpg" group-title="estrenos 2022 🆕",🆕Campamento galáctico (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Campamento galáctico (2022)" tvg-logo="http://streamgo.vip:8008/images/140cdfebc8d29609aac4968835340543.jpg" group-title="peliculas estrenos 🆕",🆕Campamento galáctico (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166317.mp4
-#EXTINF:-1 tvg-id="" tvg-name="42 segundos (2022)" tvg-logo="http://streamgo.vip:8008/images/a9d58d405b157f04beae5fed80642059.jpg" group-title="estrenos 2022 🆕",🆕42 segundos (2022)
+#EXTINF:-1 tvg-id="" tvg-name="42 segundos (2022)" tvg-logo="http://streamgo.vip:8008/images/a9d58d405b157f04beae5fed80642059.jpg" group-title="peliculas estrenos 🆕",🆕42 segundos (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166318.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vista Por Última Vez (2022)" tvg-logo="http://streamgo.vip:8008/images/480d0c0b9d91ea0b056058fccf6010b8.jpg" group-title="estrenos 2022 🆕",🆕Vista Por Última Vez (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Vista Por Última Vez (2022)" tvg-logo="http://streamgo.vip:8008/images/480d0c0b9d91ea0b056058fccf6010b8.jpg" group-title="peliculas estrenos 🆕",🆕Vista Por Última Vez (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="The Silent Twins (2022)" tvg-logo="http://streamgo.vip:8008/images/001aeb8db115c843f15fcf0d526268ff.jpg" group-title="estrenos 2022 🆕",🆕The Silent Twins (2022)
+#EXTINF:-1 tvg-id="" tvg-name="The Silent Twins (2022)" tvg-logo="http://streamgo.vip:8008/images/001aeb8db115c843f15fcf0d526268ff.jpg" group-title="peliculas estrenos 🆕",🆕The Silent Twins (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166456.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Orgasm Inc: The Story of OneTaste (2022)" tvg-logo="http://streamgo.vip:8008/images/8f3c7fd4db1c4b7783a0bea06361c9c5.jpg" group-title="estrenos 2022 🆕",🆕Orgasm Inc: The Story of OneTaste (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Orgasm Inc: The Story of OneTaste (2022)" tvg-logo="http://streamgo.vip:8008/images/8f3c7fd4db1c4b7783a0bea06361c9c5.jpg" group-title="peliculas estrenos 🆕",🆕Orgasm Inc: The Story of OneTaste (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Emily the Criminal (2022)" tvg-logo="http://streamgo.vip:8008/images/c4ff8684e7fa9c9987ea65fa586e017a.jpg" group-title="estrenos 2022 🆕",🆕Emily the Criminal (2022)
+#EXTINF:-1 tvg-id="" tvg-name="Emily the Criminal (2022)" tvg-logo="http://streamgo.vip:8008/images/c4ff8684e7fa9c9987ea65fa586e017a.jpg" group-title="peliculas estrenos 🆕",🆕Emily the Criminal (2022)
 http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El arrecife: Atrapadas (2022)" tvg-logo="http://streamgo.vip:8008/images/1edc384c88a0ea66686fb5e21aed35ee.jpg" group-title="peliculas estrenos 🆕",🆕 El arrecife: Atrapadas (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tony Hawk Hasta que las ruedas aguanten (2022)" tvg-logo="http://streamgo.vip:8008/images/5da9a9088244a685ec506c98af4c52ce.jpg" group-title="peliculas estrenos 🆕",🆕Tony Hawk Hasta que las ruedas aguanten (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162884.mp4 
+#EXTINF:-1 tvg-id="" tvg-name="Shin Ultraman (2022)" tvg-logo="http://streamgo.vip:8008/images/e827da074ed14d3fca1925d2ec2c3140.jpg" group-title="peliculas estrenos 🆕",🆕Shin Ultraman (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Old Man (2022)" tvg-logo="http://streamgo.vip:8008/images/ef2f4e805b906376b71d2e418a16b1e3.jpg" group-title="peliculas estrenos 🆕",🆕Old Man (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Piggy: Cerdita (2022)" tvg-logo="http://streamgo.vip:8008/images/9dfe9d1099801357854193925411ddbc.jpg" group-title="peliculas estrenos 🆕",🆕Piggy: Cerdita (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El extraño (2022)" tvg-logo="http://streamgo.vip:8008/images/a9dbff74cfc4637b7ce385cd3c864a63.jpg" group-title="peliculas estrenos 🆕",🆕El extraño (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Battle: Estilo libre (2022)" tvg-logo="http://streamgo.vip:8008/images/36c143aef6bba4c85526e1451a5c91cc.jpg" group-title="peliculas estrenos 🆕",🆕Battle: Estilo libre (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ola de calor (2022)" tvg-logo="http://streamgo.vip:8008/images/4fef2bef57319ec84df17e255e588e88.jpg" group-title="peliculas estrenos 🆕",🆕Ola de calor (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Nate: Mejor tarde que nunca (2022)" tvg-logo="http://streamgo.vip:8008/images/682e0ee650c5bbd41a6595ed75a22c5a.jpg" group-title="peliculas estrenos 🆕",🆕Nate: Mejor tarde que nunca (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Corre y Dispara (2022)" tvg-logo="http://streamgo.vip:8008/images/839485f46bde51ae3eefc31beb82f22e.jpg" group-title="peliculas estrenos 🆕",🆕Corre y Dispara (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Virus :32 (2022)" tvg-logo="http://streamgo.vip:8008/images/f72bd4f53504d121936f53d350e5e2d5.jpg" group-title="peliculas estrenos 🆕",🆕Virus :32 (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Toy Aficiao (2022)" tvg-logo="http://streamgo.vip:8008/images/88183158758105987d6423cc87ca56c8.jpg" group-title="peliculas estrenos 🆕",🆕Toy Aficiao (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/162886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Escuela del Bien y del Mal (2022)" tvg-logo="http://streamgo.vip:8008/images/9eb48fa998f1be73a62e64e527f5fa2d.jpg" group-title="peliculas estrenos 🆕",🆕La Escuela del Bien y del Mal (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El gerente (2022)" tvg-logo="http://streamgo.vip:8008/images/5243b7a75d4b01140768b8e710a66c5d.jpg" group-title="peliculas estrenos 🆕",🆕El gerente (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Phantom of the Open (2022)" tvg-logo="http://streamgo.vip:8008/images/bc1a0e3e9db1bba6f68cea3397fb4964.jpg" group-title="peliculas estrenos 🆕",🆕The Phantom of the Open (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Voy a pasármelo bien (2022)" tvg-logo="http://streamgo.vip:8008/images/9f032bc5842823cc1e0648d8cb4333ae.jpg" group-title="peliculas estrenos 🆕",🆕Voy a pasármelo bien (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hombre de Dios (2022)" tvg-logo="http://streamgo.vip:8008/images/09066ae40d1e647ccf78532fa6ee556f.jpg" group-title="peliculas estrenos 🆕",🆕Hombre de Dios (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Panama (2022)" tvg-logo="http://streamgo.vip:8008/images/4407e4e35c61ea3fd4c27e241a47ae30.jpg" group-title="peliculas estrenos 🆕",🆕Panama (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 mitades (2022)" tvg-logo="http://streamgo.vip:8008/images/63a35492ad9e8d779d8006a6e3c31001.jpg" group-title="peliculas estrenos 🆕",🆕4 mitades (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/163454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Yaksha: Operaciones despiadadas (2022)" tvg-logo="http://streamgo.vip:8008/images/7c194c9f80f0cdf4b66506d47e4a6a0c.jpg" group-title="peliculas estrenos 🆕",🆕Yaksha: Operaciones despiadadas (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Argentina, 1985 (2022)" tvg-logo="http://streamgo.vip:8008/images/0d70f33a43d0f1bdd28301ac7beaffbc.jpg" group-title="peliculas estrenos 🆕",🆕Argentina, 1985 (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una chica del siglo XX (2022)" tvg-logo="http://streamgo.vip:8008/images/aa54d54d960e285e9f0f1b1b5b2c0063.jpg" group-title="peliculas estrenos 🆕",🆕Una chica del siglo XX (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noche de sustos (2022)" tvg-logo="http://streamgo.vip:8008/images/3edae14ac21fc8af1361c1376628a742.jpg" group-title="peliculas estrenos 🆕",🆕Noche de sustos (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="V/H/S/99 (2022)" tvg-logo="http://streamgo.vip:8008/images/efd07c1ba4d846fea426fafe6b853283.jpg" group-title="peliculas estrenos 🆕",🆕V/H/S/99 (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Terrifier 2 (2022)" tvg-logo="http://streamgo.vip:8008/images/6cacb4dad9723737c0f2f3d3d662fd75.jpg" group-title="peliculas estrenos 🆕",🆕Terrifier 2 (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Matriarca (2022)" tvg-logo="http://streamgo.vip:8008/images/7cf9420581f90fab75248a97d2671723.jpg" group-title="peliculas estrenos 🆕",🆕Matriarca (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No estarás sola (2022)" tvg-logo="http://streamgo.vip:8008/images/e664d2e3386fdf7ebd858ff9a4bbe7a1.jpg" group-title="peliculas estrenos 🆕",🆕No estarás sola (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Black Adam (2022) " tvg-logo="http://streamgo.vip:8008/images/4fb47844d8dab4c7bb627d29120ea250.jpg" group-title="peliculas estrenos 🆕",🆕Black Adam (2022) 
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deinfluencer (2022)" tvg-logo="http://streamgo.vip:8008/images/b646bb6825017ca082be8ea37fca954b.jpg" group-title="peliculas estrenos 🆕",🆕Deinfluencer (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Whisper (2022)" tvg-logo="http://streamgo.vip:8008/images/b79521e989848712a86566d20619cc64.jpg" group-title="peliculas estrenos 🆕",🆕Whisper (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonríe (2022)" tvg-logo="http://streamgo.vip:8008/images/22d35619d55e9f2d498aafd1005d2d98.jpg" group-title="peliculas estrenos 🆕",🆕Sonríe (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No te preocupes cariño (2022)" tvg-logo="http://streamgo.vip:8008/images/fd4841cad6890997e05ebfa0c195805b.jpg" group-title="peliculas estrenos 🆕",🆕No te preocupes cariño (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un amor en Escocia (2022)" tvg-logo="http://streamgo.vip:8008/images/bfadc59682f60719f430d4ec13284fa3.jpg" group-title="peliculas estrenos 🆕",🆕Un amor en Escocia (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bárbaro (2022)" tvg-logo="http://streamgo.vip:8008/images/ce6863154bdee8b85c2aa78c4e31ada5.jpg" group-title="peliculas estrenos 🆕",🆕Bárbaro (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade of the 47 Ronin (2022)" tvg-logo="http://streamgo.vip:8008/images/dd3b1dc5ff0edf0b2b262db47e770eda.jpg" group-title="peliculas estrenos 🆕",🆕Blade of the 47 Ronin (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jaula (2022)" tvg-logo="http://streamgo.vip:8008/images/166404520be007ed349d47e1ecaf7cb5.jpg" group-title="peliculas estrenos 🆕",🆕Jaula (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Déjate llevar (2022)" tvg-logo="http://streamgo.vip:8008/images/15dca2419743fef8a088c16b89aaf925.jpg" group-title="peliculas estrenos 🆕",🆕Déjate llevar (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raymond & Ray (2022)" tvg-logo="http://streamgo.vip:8008/images/a83d0a8c48eccd5283b892c1f5bc2315.jpg" group-title="peliculas estrenos 🆕",🆕Raymond & Ray (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chip y Dale: Al rescate (2022)" tvg-logo="http://streamgo.vip:8008/images/9f06b10487c237649d6cd5ce549e7534.jpg" group-title="peliculas estrenos 🆕",🆕Chip y Dale: Al rescate (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El ángel de la muerte (2022)" tvg-logo="http://streamgo.vip:8008/images/4180d872f3426c9bdd31d15ff23b86a5.jpg" group-title="peliculas estrenos 🆕",🆕El ángel de la muerte (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mia and Me: The Hero of Centopia (2022)" tvg-logo="http://streamgo.vip:8008/images/2ed81b6e621e1bef243d37fc88cb40c0.jpg" group-title="peliculas estrenos 🆕",🆕Mia and Me: The Hero of Centopia (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El abismo del infierno (2022)" tvg-logo="http://streamgo.vip:8008/images/72872c57abe43675658122142ef152f8.jpg" group-title="peliculas estrenos 🆕",🆕El abismo del infierno (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El robo a Mussolini (2022)" tvg-logo="http://streamgo.vip:8008/images/ac01209d17117bcb0ce4183920ddc2b3.jpg" group-title="peliculas estrenos 🆕",🆕El robo a Mussolini (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/164941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Depois do Universo (2022)" tvg-logo="http://streamgo.vip:8008/images/33ecdc4ffeb7d9572b1cdd8a945033c6.jpg" group-title="peliculas estrenos 🆕",🆕Depois do Universo (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165373.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pánico a la deriva (2022)" tvg-logo="http://streamgo.vip:8008/images/08019ceb7e69f8077af1e9726dc417b1.jpg" group-title="peliculas estrenos 🆕",🆕Pánico a la deriva (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165374.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Casa del Crimen (2022)" tvg-logo="http://streamgo.vip:8008/images/2d132477366e6f7b120cb6d31fdd160d.jpg" group-title="peliculas estrenos 🆕",🆕La Casa del Crimen (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165375.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dracula: The Original Living Vampire (2022)" tvg-logo="http://streamgo.vip:8008/images/2d4529d5922d5faa65cc3e5e0c77efba.jpg" group-title="peliculas estrenos 🆕",🆕Dracula: The Original Living Vampire (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165376.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mete miedo (2022)" tvg-logo="http://streamgo.vip:8008/images/1242b2108b031a58aaafc06c4596c268.jpg" group-title="peliculas estrenos 🆕",🆕Mete miedo (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wendell y Wild (2022)" tvg-logo="http://streamgo.vip:8008/images/9554f17a53245100096f752fe783603b.jpg" group-title="peliculas estrenos 🆕",🆕Wendell y Wild (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165493.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bros: Más que amigos (2022)" tvg-logo="http://streamgo.vip:8008/images/ed857a0b20663606b83f62fc46b91cff.jpg" group-title="peliculas estrenos 🆕",🆕Bros: Más que amigos (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165494.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El norte sobre el vacío (2022)" tvg-logo="http://streamgo.vip:8008/images/3d01ec75f97a0332946c40c8dbdea209.jpg" group-title="peliculas estrenos 🆕",🆕El norte sobre el vacío (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165495.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Salvaje es el viento (2022)" tvg-logo="http://streamgo.vip:8008/images/762805f5a75a899debfdf233b6bfa908.jpg" group-title="peliculas estrenos 🆕",🆕Salvaje es el viento (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165496.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sin novedad en el frente (2022)" tvg-logo="http://streamgo.vip:8008/images/fc750af6ba781d173bc976524a9a7d83.jpg" group-title="peliculas estrenos 🆕",🆕Sin novedad en el frente (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165497.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un Río Muy Frío (2022)" tvg-logo="http://streamgo.vip:8008/images/402fb8a7ee4c768ec9560b9b9c5d6bc8.jpg" group-title="peliculas estrenos 🆕",🆕Un Río Muy Frío (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165498.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¡Menuda momia! 2 (2022)" tvg-logo="http://streamgo.vip:8008/images/4784465928946747b4046d1417c88e20.jpg" group-title="peliculas estrenos 🆕",🆕¡Menuda momia! 2 (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Single Black Female (2022)" tvg-logo="http://streamgo.vip:8008/images/c15c8c2b2256925d471cd1312c24af50.jpg" group-title="peliculas estrenos 🆕",🆕Single Black Female (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crímenes del futuro (2022)" tvg-logo="http://streamgo.vip:8008/images/cc4f82220feaa3866bf171fe9fd4a1d2.jpg" group-title="peliculas estrenos 🆕",🆕Crímenes del futuro (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Honecker und der Pastor (2022)" tvg-logo="http://streamgo.vip:8008/images/9f12267b94ab60b1c0c90470097c4667.jpg" group-title="peliculas estrenos 🆕",🆕Honecker und der Pastor (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Offseason (2022)" tvg-logo="http://streamgo.vip:8008/images/3296a5e292238f638bb72bb0cb5c6fbb.jpg" group-title="peliculas estrenos 🆕",🆕Offseason (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mamá para rato (2022)" tvg-logo="http://streamgo.vip:8008/images/f4f8f5d812e3033b7636c384e0308675.jpg" group-title="peliculas estrenos 🆕",🆕Mamá para rato (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mira como corren (2022)" tvg-logo="http://streamgo.vip:8008/images/4807c276542112ed1b534de81a2abff5.jpg" group-title="peliculas estrenos 🆕",🆕Mira como corren (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La toma del poder (2022)" tvg-logo="http://streamgo.vip:8008/images/24454fa54e7103658eac7885b7d67505.jpg" group-title="peliculas estrenos 🆕",🆕La toma del poder (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/165783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Men (2022)" tvg-logo="http://streamgo.vip:8008/images/66ca9a269e8e3bf7e953b117c58d3f54.jpg" group-title="peliculas estrenos 🆕",🆕Men (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gemelo siniestro (2022)" tvg-logo="http://streamgo.vip:8008/images/13e826447af2a951b4517e897199b9d1.jpg" group-title="peliculas estrenos 🆕",🆕Gemelo siniestro (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Campamento galáctico (2022)" tvg-logo="http://streamgo.vip:8008/images/140cdfebc8d29609aac4968835340543.jpg" group-title="peliculas estrenos 🆕",🆕Campamento galáctico (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166317.mp4
+#EXTINF:-1 tvg-id="" tvg-name="42 segundos (2022)" tvg-logo="http://streamgo.vip:8008/images/a9d58d405b157f04beae5fed80642059.jpg" group-title="peliculas estrenos 🆕",🆕42 segundos (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166318.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vista Por Última Vez (2022)" tvg-logo="http://streamgo.vip:8008/images/480d0c0b9d91ea0b056058fccf6010b8.jpg" group-title="peliculas estrenos 🆕",🆕Vista Por Última Vez (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166328.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Silent Twins (2022)" tvg-logo="http://streamgo.vip:8008/images/001aeb8db115c843f15fcf0d526268ff.jpg" group-title="peliculas estrenos 🆕",🆕The Silent Twins (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Orgasm Inc: The Story of OneTaste (2022)" tvg-logo="http://streamgo.vip:8008/images/8f3c7fd4db1c4b7783a0bea06361c9c5.jpg" group-title="peliculas estrenos 🆕",🆕Orgasm Inc: The Story of OneTaste (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emily the Criminal (2022)" tvg-logo="http://streamgo.vip:8008/images/c4ff8684e7fa9c9987ea65fa586e017a.jpg" group-title="peliculas estrenos 🆕",🆕Emily the Criminal (2022)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/166458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cariño, he encogido a los niños (1989)" tvg-logo="http://streamgo.vip:8008/images/8843040ff7474c2603c53c2865e6166c.jpg"  group-title="Peliculas Familiares 🆕",🆕Cariño, he encogido a los niños (1989)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109849.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Chestnut: El héroe de Central Park (2004)" tvg-logo="http://streamgo.vip:8008/images/77b773ac537a741414b6f1d66a745253.jpg"  group-title="Peliculas Familiares 🆕",🆕Chestnut: El héroe de Central Park (2004)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="De vuelta a casa 2: Perdidos en San Francisco (1996)" tvg-logo="http://streamgo.vip:8008/images/4b6896843f34bd4af9f82d82b9fae3dc.jpg"  group-title="Peliculas Familiares 🆕",🆕De vuelta a casa 2: Perdidos en San Francisco (1996)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109851.mkv
+#EXTINF:-1 tvg-id="" tvg-name="De vuelta a casa: Un viaje increíble (1993)" tvg-logo="http://streamgo.vip:8008/images/c8bd369b4e5707be5e4fa67574106173.jpg"  group-title="Peliculas Familiares 🆕",🆕De vuelta a casa: Un viaje increíble (1993)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109852.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dino Dana: La Película (2020)" tvg-logo="http://streamgo.vip:8008/images/88c336fa3a3df0ad8699952b7d125b02.jpg"  group-title="Peliculas Familiares 🆕",🆕Dino Dana: La Película (2020)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle 2 (2001)" tvg-logo="http://streamgo.vip:8008/images/190fed41e5805cd8889345a5377c93cd.jpg"  group-title="Peliculas Familiares 🆕",🆕Dr. Dolittle 2 (2001)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109854.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle 3 (2006)" tvg-logo="http://streamgo.vip:8008/images/6bce5be4d5abece8d40aa3321f7c7a37.jpg"  group-title="Peliculas Familiares 🆕",🆕Dr. Dolittle 3 (2006)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109855.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle 4 (2008)" tvg-logo="http://streamgo.vip:8008/images/6f38a889572e92491338e3a6ad4f82c9.jpg"  group-title="Peliculas Familiares 🆕",🆕Dr. Dolittle 4 (2008)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109856.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle 5 (2009)" tvg-logo="http://streamgo.vip:8008/images/32dd0887898a1d6381f7575bf92b073f.jpg"  group-title="Peliculas Familiares 🆕",🆕Dr. Dolittle 5 (2009)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109857.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dr. Dolittle (1998)" tvg-logo="http://streamgo.vip:8008/images/af5cad13ddba7e6f648bcaee7723d77f.jpg"  group-title="Peliculas Familiares 🆕",🆕Dr. Dolittle (1998)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109858.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elf (2003)" tvg-logo="http://streamgo.vip:8008/images/4076d1218805b836566fe5a98c53cc1d.jpg"  group-title="Peliculas Familiares 🆕",🆕Elf (2003)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109859.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El peque se va de marcha (1994)" tvg-logo="http://streamgo.vip:8008/images/87f911e35c4a5b1e0720359bdd09f2b6.jpg"  group-title="Peliculas Familiares 🆕",🆕El peque se va de marcha (1994)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109860.mkv
+#EXTINF:-1 tvg-id="" tvg-name="El regreso de Mary Poppins (2018)" tvg-logo="http://streamgo.vip:8008/images/aee0f53a32874ca1de0fd14d077a6db9.jpg"  group-title="Peliculas Familiares 🆕",🆕El regreso de Mary Poppins (2018)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109861.mkv
+#EXTINF:-1 tvg-id="" tvg-name="4 chicos y "Esto" (2020)" tvg-logo="http://streamgo.vip:8008/images/05b63a9c211c4269a91a8689d575ced7.jpg"  group-title="Peliculas Familiares 🆕",🆕4 chicos y "Esto" (2020)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109862.mkv
+#EXTINF:-1 tvg-id="" tvg-name="George de la jungla 2 (2003)" tvg-logo="http://streamgo.vip:8008/images/e99e6fc77afa897418cddd3bd3ed029f.jpg"  group-title="Peliculas Familiares 🆕",🆕George de la jungla 2 (2003)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109864.mkv
+#EXTINF:-1 tvg-id="" tvg-name="George de la jungla (1997)" tvg-logo="http://streamgo.vip:8008/images/d7fe2cfb12ebaf534243c7e42bf0fb3e.jpg"  group-title="Peliculas Familiares 🆕",🆕George de la jungla (1997)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109865.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Hotel para perros (2009)" tvg-logo="http://streamgo.vip:8008/images/c85afb44284d61c163d7327ebc4f17be.jpg"  group-title="Peliculas Familiares 🆕",🆕Hotel para perros (2009)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109866.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jack Frost (1998)" tvg-logo="http://streamgo.vip:8008/images/bde011bced3e553ff1feee9c2705e350.jpg"  group-title="Peliculas Familiares 🆕",🆕Jack Frost (1998)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109867.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Milagro en la ciudad (1994)" tvg-logo="http://streamgo.vip:8008/images/5f7839ce508fadf85a260cbb7598a711.jpg"  group-title="Peliculas Familiares 🆕",🆕Milagro en la ciudad (1994)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109868.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mi marciano favorito (1999)" tvg-logo="http://streamgo.vip:8008/images/4a6a03c6dfdb0987d27232dc74ef4b81.jpg"  group-title="Peliculas Familiares 🆕",🆕Mi marciano favorito (1999)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109869.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Misión sin permiso (2004)" tvg-logo="http://streamgo.vip:8008/images/07e15f858efb619c619893badf07747a.jpg"  group-title="Peliculas Familiares 🆕",🆕Misión sin permiso (2004)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Noelle (2020)" tvg-logo="http://streamgo.vip:8008/images/0d123e56f6215ff0517981c5031b2004.jpg"  group-title="Peliculas Familiares 🆕",🆕Noelle (2020)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109871.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Oddball (2015)" tvg-logo="http://streamgo.vip:8008/images/e5bde8d4b3e01c2b4c10a22ee29cbdf4.jpg"  group-title="Peliculas Familiares 🆕",🆕Oddball (2015)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Pinocho (2019)" tvg-logo="http://streamgo.vip:8008/images/c41feaf2d8c779e50499f45539fb1914.jpg"  group-title="Peliculas Familiares 🆕",🆕Pinocho (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109874.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Robo-Dog: Airborne (2017)" tvg-logo="http://streamgo.vip:8008/images/06d141b16db7cb8fc6e01c45b63a4e38.jpg"  group-title="Peliculas Familiares 🆕",🆕Robo-Dog: Airborne (2017)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rompedientes 2 (2012)" tvg-logo="http://streamgo.vip:8008/images/1745d1589cce420dbb5927ae466b1807.jpg"  group-title="Peliculas Familiares 🆕",🆕Rompedientes 2 (2012)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Santa Claus 2 (2002)" tvg-logo="http://streamgo.vip:8008/images/b37639ab780e0676e29635f105bc2e62.jpg"  group-title="Peliculas Familiares 🆕",🆕Santa Claus 2 (2002)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109879.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Siete vidas, este gato es un peligro (2016)" tvg-logo="http://streamgo.vip:8008/images/3c218c61e6230b68ef7729d7ae719742.jpg"  group-title="Peliculas Familiares 🆕",🆕Siete vidas, este gato es un peligro (2016)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109880.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sky High, una escuela de altos vuelos (2005)" tvg-logo="http://streamgo.vip:8008/images/727843befa448d99ad49da405284f872.jpg"  group-title="Peliculas Familiares 🆕",🆕Sky High, una escuela de altos vuelos (2005)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109881.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Solo en casa 3 (1997)" tvg-logo="http://streamgo.vip:8008/images/4e1cc63ea9ea4c7c30e3485fabda51e9.jpg"  group-title="Peliculas Familiares 🆕",🆕Solo en casa 3 (1997)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109883.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Sonic: La película (2020)" tvg-logo="http://streamgo.vip:8008/images/2c214bdbbe8c5884e94fe3664feccd94.jpg"  group-title="Peliculas Familiares 🆕",🆕Sonic: La película (2020)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109886.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Space Jam (1996)" tvg-logo="http://streamgo.vip:8008/images/62c09f4455a1f457260029814ae5b321.jpg"  group-title="Peliculas Familiares 🆕",🆕Space Jam (1996)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109887.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pensar como un perro (2020)" tvg-logo="http://streamgo.vip:8008/images/ce639552bba36260485d67435510a1c8.jpg"  group-title="Peliculas Familiares 🆕",🆕Pensar como un perro (2020)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109888.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Tu mejor amigo: Un nuevo viaje (2019)" tvg-logo="http://streamgo.vip:8008/images/e30852412a4cc46ddc856ebfabaf4f0c.jpg"  group-title="Peliculas Familiares 🆕",🆕Tu mejor amigo: Un nuevo viaje (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109889.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un chihuahua en Beverly Hills (2008)" tvg-logo="http://streamgo.vip:8008/images/9b6c4da4555d03e5be3975274b9f2087.jpg"  group-title="Peliculas Familiares 🆕",🆕Un chihuahua en Beverly Hills (2008)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109891.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un chihuahua en Beverly Hills 2 (2011)" tvg-logo="http://streamgo.vip:8008/images/0c9b1e3e6720e69f4f2ba29564f3f339.jpg"  group-title="Peliculas Familiares 🆕",🆕Un chihuahua en Beverly Hills 2 (2011)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109892.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un chihuahua en Beverly Hills 3: ¡Que viva la fiesta! (2012)" tvg-logo="http://streamgo.vip:8008/images/6b2eabef67d86a6abd71b20916bd3318.jpg"  group-title="Peliculas Familiares 🆕",🆕Un chihuahua en Beverly Hills 3: ¡Que viva la fiesta! (2012)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109893.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un padre en apuros (1996)" tvg-logo="http://streamgo.vip:8008/images/67e4ecb39c69c73e3b192770ea380396.jpg"  group-title="Peliculas Familiares 🆕",🆕Un padre en apuros (1996)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109894.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un perro de otro mundo (2003)" tvg-logo="http://streamgo.vip:8008/images/97dc91884237a13c0909249faeaafe90.jpg"  group-title="Peliculas Familiares 🆕",🆕Un perro de otro mundo (2003)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109895.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Un vecino con pocas luces (2006)" tvg-logo="http://streamgo.vip:8008/images/753fbf70f2214591b4be7565d40809f1.jpg"  group-title="Peliculas Familiares 🆕",🆕Un vecino con pocas luces (2006)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109896.mkv
+#EXTINF:-1 tvg-id="" tvg-name="¡Vaya Santa Claus! (1994)" tvg-logo="http://streamgo.vip:8008/images/917f0d5b04a1eb62c2853661d9818395.jpg"  group-title="Peliculas Familiares 🆕",🆕¡Vaya Santa Claus! (1994)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/109897.mkv
+#EXTINF:-1 tvg-id="" tvg-name="3 del infierno (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZVrBhFRiYIJ4N0hvYYGraBcD0t.jpg" group-title="Peliculas Terror 🆕",🆕 3 del infierno (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4.20 Massacre (2018)" tvg-logo="https://pics.filmaffinity.com/4_20_massacre-306338321-large.jpg" group-title="Peliculas Terror 🆕",🆕 4.20 Massacre (2018)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 fantasmas (2001)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" group-title="Peliculas Terror 🆕",🆕 13 fantasmas (2001)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 días de oscuridad (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uWVEjJ6wIjg6jVR2LtwVRHkpJAn.jpg" group-title="Peliculas Terror 🆕",🆕 30 días de oscuridad (2007)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="30 días de oscuridad 2: Tinieblas (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j4qkf7BIqOrxjqtcLFzA4XJ01Fd.jpg" group-title="Peliculas Terror 🆕",🆕 30 días de oscuridad 2: Tinieblas (2010)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1408 (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uSU6L34qLpn1Vx4MUkkfs0mCrQ8.jpg" group-title="Peliculas Terror 🆕",🆕 1408 (2007)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="7500 (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqp5P9sONdOhUuPdv05LSMrM1mG.jpg" group-title="Peliculas Terror 🆕",🆕 7500 (2014)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Animales sin collar (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1oJa67yEFtSC2fuB3b9cvF2fyi.jpg" group-title="Peliculas Terror 🆕",🆕 Animales sin collar (2018)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Annabelle 3: vuelve a casa (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZZB2UHGK2iqj4XYgmivkeCgGJn.jpg" group-title="Peliculas Terror 🆕",🆕 Annabelle 3: vuelve a casa (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Araf 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zecgRjwCdzGplZHxgTcTdztZOiM.jpg" group-title="Peliculas Terror 🆕",🆕 Araf 2 (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Arrástrame al infierno (2009)" tvg-logo="http://streamgo.vip:8008/images/8c4ed19f6c6cdfb9f9f58723e1dabaad.jpg" group-title="Peliculas Terror 🆕",🆕 Arrástrame al infierno (2009)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Así en la Tierra como en el Infierno (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vyDIDxwMQP8UG9bpAeckURPK0Vq.jpg" group-title="Peliculas Terror 🆕",🆕 Así en la Tierra como en el Infierno (2014)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un misterio para Aurora Teagarden: el juego del gato y el ratón (2019)" tvg-logo="http://streamgo.vip:8008/images/90b5f72059ec074aa75956a95c41370b.jpg" group-title="Peliculas Terror 🆕",🆕 Un misterio para Aurora Teagarden: el juego del gato y el ratón (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Aurora Teagarden Mysteries: An Inheritance to Die For (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjx1jZPJl0x2wJP9Sdl5AOtzFHQ.jpg" group-title="Peliculas Terror 🆕",🆕 Aurora Teagarden Mysteries: An Inheritance to Die For (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115263.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Un misterio para Aurora Teagarden: Una muy mala obra (2019)" tvg-logo="http://streamgo.vip:8008/images/aaf5b916eec538912725e87133f8f24a.jpg" group-title="Peliculas Terror 🆕",🆕 Un misterio para Aurora Teagarden: Una muy mala obra (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115264.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bad Impulse (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAYfDGX9jpvhsSP5Bo0FRcBYksz.jpg" group-title="Peliculas Terror 🆕",🆕 Bad Impulse (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115265.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bastaard (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jQsFqoXsIOFOC2uZKt1Gxuwxqc.jpg" group-title="Peliculas Terror 🆕",🆕 Bastaard (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bombshell Bloodbath (2014)" tvg-logo="http://streamgo.vip:8008/images/b5d4f285e00d6a5b3cb2b53d5d1abf37.jpg" group-title="Peliculas Terror 🆕",🆕 Bombshell Bloodbath (2014)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115267.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabin Fever (2003)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLdhs92kvQUoEppSHtTjidsir78.jpg" group-title="Peliculas Terror 🆕",🆕 Cabin Fever (2003)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115268.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cabin Fever (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJQLWoizC5zBjVk9dr2Qo1K1TCI.jpg" group-title="Peliculas Terror 🆕",🆕 Cabin Fever (2016)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115269.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Caza bajo el sol (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Nybo6597UJuYlKVx1SeoHq4poK.jpg" group-title="Peliculas Terror 🆕",🆕 Caza bajo el sol (2014)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115270.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cementerio de animales (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktEYyuUwreQgE3S8HMRcyxBHonC.jpg" group-title="Peliculas Terror 🆕",🆕 Cementerio de animales (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115271.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cherry Tree (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nhLagkPThEz2fqpXQwnEC3VqqIX.jpg" group-title="Peliculas Terror 🆕",🆕 Cherry Tree (2015)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115272.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Clown (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geB2KS8nJ2HZpT6ao259wYKK4CW.jpg" group-title="Peliculas Terror 🆕",🆕 Clown (2014)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Contracted (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xwUnGIEmKjVjJ77eVcb7kDPebnT.jpg" group-title="Peliculas Terror 🆕",🆕 Contracted (2013)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115274.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Countdown: La hora de tu muerte (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jYwCTKSmvAey3PDvrj7TCZuso5q.jpg" group-title="Peliculas Terror 🆕",🆕 Countdown: La hora de tu muerte (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115275.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruel Will (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vFWbplXzDlTQnMsLR6cEaHx4qZl.jpg" group-title="Peliculas Terror 🆕",🆕 Cruel Will (2013)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115276.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Curve (La curva de la muerte) (2015)" tvg-logo="http://streamgo.vip:8008/images/9071e6459ca0667fb98dcffa4ce6f03f.jpg" group-title="Peliculas Terror 🆕",🆕 Curve (La curva de la muerte) (2015)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115277.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cute Bank (2014)" tvg-logo="http://streamgo.vip:8008/images/9071e6459ca0667fb98dcffa4ce6f03f.jpg" group-title="Peliculas Terror 🆕",🆕 Cute Bank (2014)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115278.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dame tus ojos (2017)" tvg-logo="http://streamgo.vip:8008/images/b66ed4d9b13ef30ae5b8ad767756894f.jpg" group-title="Peliculas Terror 🆕",🆕 Dame tus ojos (2017)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115279.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En la oscuridad (2019)" tvg-logo="http://streamgo.vip:8008/images/afc78015084c4feb001759119b70f8d8.jpg" group-title="Peliculas Terror 🆕",🆕 En la oscuridad (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115280.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Darkness Visible (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rG3HizKgPrzl50m58kC2pb3psv2.jpg" group-title="Peliculas Terror 🆕",🆕 Darkness Visible (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115281.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deathgasm (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwy9sGEOAuzpZXzXBVln1PZ4vxn.jpg" group-title="Peliculas Terror 🆕",🆕 Deathgasm (2015)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115282.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Desde el más allá (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKZhG8W0XFHLG1CJq6XDx4k6Jcn.jpg" group-title="Peliculas Terror 🆕",🆕 Desde el más allá (2017)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115283.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Drácula de Bram Stoker (1992)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D4UhX6dzfBTHdVWkgjadcl8YkW.jpg" group-title="Peliculas Terror 🆕",🆕 Drácula de Bram Stoker (1992)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115284.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ecos mortales (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bqX4c2jWHxQsDoN8sOXwvWi3Jo.jpg" group-title="Peliculas Terror 🆕",🆕 Ecos mortales (2018)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115285.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Election: La noche de las bestias (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEpLdiISE6mLHXOc1iDnd3edfal.jpg" group-title="Peliculas Terror 🆕",🆕 Election: La noche de las bestias (2016)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115286.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El escondite (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bzpCwz8KoVzb0yIr7BI6W4LQjM2.jpg" group-title="Peliculas Terror 🆕",🆕 El escondite (2005)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115287.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El grito (2004)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j2h2meVDDxQrJyW8fviwegJ2eTY.jpg" group-title="Peliculas Terror 🆕",🆕 El grito (2004)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115288.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El grito 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFVuOqY1CspyUNwWxCkNeGiRiK9.jpg" group-title="Peliculas Terror 🆕",🆕 El grito 2 (2006)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115289.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El grito 3 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xMFs9uSkoo6Oa7U7fBFAxVWjXM9.jpg" group-title="Peliculas Terror 🆕",🆕 El grito 3 (2009)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115290.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eliminado: Dark Web (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dQM2LDOmolIGt7WzcHl6ZSUAdci.jpg" group-title="Peliculas Terror 🆕",🆕 Eliminado: Dark Web (2018)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El manicomio: la cuna del terror (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khNZDcR7ftoM74dQUtCDWvDp5KT.jpg" group-title="Peliculas Terror 🆕",🆕 El manicomio: la cuna del terror (2018)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115292.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El manicomio: la cuna del terror (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khNZDcR7ftoM74dQUtCDWvDp5KT.jpg" group-title="Peliculas Terror 🆕",🆕 El manicomio: la cuna del terror (2018)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115293.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El ocupante (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnRedO8UEyiZDgbumDuYYmeEY24.jpg" group-title="Peliculas Terror 🆕",🆕 El ocupante (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115294.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El orfanato (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMQp84tqHSSuzWHvsBYlIUznPjU.jpg" group-title="Peliculas Terror 🆕",🆕 El orfanato (2007)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115295.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El paso del diablo (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxOiZZYevx6hSfVa2UxtHW2qkab.jpg" group-title="Peliculas Terror 🆕",🆕 El paso del diablo (2013)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115296.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El proyecto colibrí (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRRuhlqmzGnxugvA257Rt3dzvaz.jpg" group-title="Peliculas Terror 🆕",🆕 El proyecto colibrí (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115297.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El proyecto de la bruja de Blair (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4VkdY6GlFchXcHgg3Bsl1A73jsH.jpg" group-title="Peliculas Terror 🆕",🆕 El proyecto de la bruja de Blair (1999)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El pueblo de los malditos (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q0evLSmITF3I8dZKGSGXVviEA2O.jpg" group-title="Peliculas Terror 🆕",🆕 El pueblo de los malditos (1995)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115299.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El regalo (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mIVuGX7QT6B4Vtcj17J9c6gSJsh.jpg" group-title="Peliculas Terror 🆕",🆕 El regalo (2015)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115300.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El sótano de Ma (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUPZu9stlOUHqT9FCRYwiKkFtMo.jpg" group-title="Peliculas Terror 🆕",🆕 El sótano de Ma (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115301.mp4
+#EXTINF:-1 tvg-id="" tvg-name="En La Boca Del Miedo (1995)" tvg-logo="http://streamgo.vip:8008/images/573e1ffa6f4dfb73d6c8dec4aefcaaaf.jpg" group-title="Peliculas Terror 🆕",🆕 En La Boca Del Miedo (1995)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115302.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista con el vampiro (1994)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/921DrRqvdnX90grWPkuRnOoko5l.jpg" group-title="Peliculas Terror 🆕",🆕 Entrevista con el vampiro (1994)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115303.mp4
+#EXTINF:-1 tvg-id="" tvg-name="¿Eres tú, papá? (2018)" tvg-logo="http://streamgo.vip:8008/images/8aa292c1f77145e44caf04ae9d1171a7.jpg" group-title="Peliculas Terror 🆕",🆕 ¿Eres tú, papá? (2018)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115304.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Espíritu del mal (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yjPalZwRQCIc0b9hvMa0ssuD2ax.jpg" group-title="Peliculas Terror 🆕",🆕 Espíritu del mal (2017)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115305.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: El caso Enfield (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ai4SJPeFHF0BzXYYFztbieYozNK.jpg" group-title="Peliculas Terror 🆕",🆕 Expediente Warren: El caso Enfield (2016)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115306.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Expediente Warren: The Conjuring (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKuHxkCogdk6YWzTyXYPoo9qd9n.jpg" group-title="Peliculas Terror 🆕",🆕 Expediente Warren: The Conjuring (2013)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115307.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Feliz día de tu muerte 2 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6PSTBNlI9WtfuMlngz82yaudUg.jpg" group-title="Peliculas Terror 🆕",🆕 Feliz día de tu muerte 2 (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115308.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghost Boat (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/192I1qF0yxHrlpNU5RqdWTPKKLc.jpg" group-title="Peliculas Terror 🆕",🆕 Ghost Boat (2015)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115309.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ghostland (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ma9gY6OikBev8MsMaeA6h2EIdGo.jpg" group-title="Peliculas Terror 🆕",🆕 Ghostland (2018)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115310.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gonjiam: Haunted Asylum (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sCLqWiJxp2rq2wuvuv8N2KvaNhB.jpg" group-title="Peliculas Terror 🆕",🆕 Gonjiam: Haunted Asylum (2018)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115311.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hazard Jack (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7S7SoeQfQ7744LLoWZkFaA1yRL.jpg" group-title="Peliculas Terror 🆕",🆕 Hazard Jack (2014)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115312.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hereditary (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCVCaO5pCXChfXbTcqEqeyj2z9N.jpg" group-title="Peliculas Terror 🆕",🆕 Hereditary (2018)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115313.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hex (2019)" tvg-logo="http://streamgo.vip:8008/images/b173c9ba3e0ad521d907757caee9b79d.jpg" group-title="Peliculas Terror 🆕",🆕 Hex (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115314.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Historias de miedo para contar en la oscuridad (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2o2thWyv4q1s5CLkc1ffxyVFkti.jpg" group-title="Peliculas Terror 🆕",🆕 Historias de miedo para contar en la oscuridad (2019)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115315.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Howl (Aullido) (2015)" tvg-logo="http://streamgo.vip:8008/images/280b3aa2aa61c1f3c6cf0c8104525228.jpg" group-title="Peliculas Terror 🆕",🆕 Howl (Aullido) (2015)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115316.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I am not a serial killer (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mfhVJQGUV3Lmun9wzdaPmBJ8s2u.jpg" group-title="Peliculas Terror 🆕",🆕 I am not a serial killer (2016)
+http://streamgo.vip:8008/movie/etelio79/enVGNgzc3WTD/115317.mkv
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žAdult Time
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440914
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žAlba XXX
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440915
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žAnal Teen Angels
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440917
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žAnalized
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440918
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žAss Parade
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440919
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žAST TV
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440921
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žBalkan Erotic
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440924
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žBanana Fever
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440925
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žBang Bros
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440927
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žBang Bus
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440928
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žBang POV
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440929
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žBarely Legal TV
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440931
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žBBC Pie
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440932
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žBlacked
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440934
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žBratty Sis
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440935
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žBrazzers
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440936
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žvenus
+http://api-lockytv.ddns.net:25461/albvborbor/df6DpE3NrfpA/143
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žDad Crush
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440941
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žDane Jones
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440942
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žDaughter Swap
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440943
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žDeep Throat Sirens
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440948
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žDirty Wives Club
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440949
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žDorcel Club
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440950
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žDP Fanatics
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440951
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žplay boy
+http://api-lockytv.ddns.net:25461/albvborbor/df6DpE3NrfpA/144
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žFake Taxi
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440953
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žFamily Hookups
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440954
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žFamily Strokes
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440955
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žGlory Hole
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440957
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žHoled
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440960
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žHot and Mean
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440962
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žHot Guys Fuck
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440964
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žHouse of Fyre
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440965
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žJapanV
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440967
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žJasmin TV
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/440968
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žVixen
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/441002
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žWe Live Together
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/441004
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žWhite Boxxx
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/441005
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žWicked
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/441006
+#EXTINF:-1 tvg-logo="https://www.freeiconspng.com/uploads/parental-advisory-picture-image-5.png" group-title="XXXðŸ”ž",ðŸ”žWild on Cam
+http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/441007
